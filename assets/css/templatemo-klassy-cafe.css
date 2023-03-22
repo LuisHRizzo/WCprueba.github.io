@@ -696,8 +696,10 @@ banner
   margin-bottom: 10px;
 }
 
-#top .left-content .main-white-button a {
-  display: inline-block;
+#top .left-content .btn a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ==== Main CSS === */
